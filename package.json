@@ -1,0 +1,5 @@
+{
+  "name": "postcard",
+  "private": true,
+  "workspaces": ["frontend"]
+}

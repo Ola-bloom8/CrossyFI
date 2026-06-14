@@ -1,0 +1,11 @@
+# Logs
+node_modules/
+.next/
+out/
+.env*.local
+
+# Foundry
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+contracts/lib/
