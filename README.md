@@ -11,7 +11,7 @@ CrossyFi is an on-chain cross-chain payment system built for the ETH Global Hack
 
 ## Structure
 
-- `contracts/` — Foundry (PostcardNFT, PostcardRouter)
+- `contracts/` — Foundry (CrossyFIRouter, CrossyFINFT)
 - `frontend/` — Next.js + wagmi + viem
 
 ## Quick start
@@ -56,3 +56,14 @@ npm run dev
 - Arbitrum Sepolia: `0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d`
 
 Get testnet USDC from [Circle faucet](https://faucet.circle.com/).
+## Built With
+
+- Solidity + Foundry — smart contracts
+- Next.js + wagmi + viem — frontend
+- Across Protocol — cross-chain USDC bridging
+- Base Sepolia + Arbitrum Sepolia — testnets
+- OpenZeppelin — contract standards
+
+## Status
+
+Built and submitted for the ETH Global Hackathon. Deployed on testnet.
