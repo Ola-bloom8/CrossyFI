@@ -1,6 +1,13 @@
 # CrossyFI
 
 CrossyFi is an on-chain cross-chain payment system built for the ETH Global Hackathon. Users can send USDC across chains seamlessly — no manual swapping or bridging required. Every $50+ transaction automatically mints a unique generative NFT postcard to the recipient, with a cap of 100 mints per wallet.
+## Screenshots
+
+![Banner](screenshots/Banner.png)
+
+![My Postcards](screenshots/postcard.png)
+
+![Send a Postcard](screenshots/sendapostcard.png)
 
 ## Structure
 
